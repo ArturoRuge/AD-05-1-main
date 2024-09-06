@@ -18,6 +18,8 @@ body {
   width: 25%; 
   height: auto;
   border: 10px solid black;  
+  display: none;
+  margin: auto;
 } 
   
 .blue {
@@ -31,14 +33,17 @@ body {
 .rowt {
   text-align: center; 
   background-color: rgb(226, 25, 159);
+ 
 
 }
 
 .row{
   margin-bottom: 3px; 
   background-color: orange; 
+  padding: 50px;
 }
 
 h1, h3, h5 {
   color: black;
+  cursor: pointer;
 }

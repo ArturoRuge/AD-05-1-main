@@ -1,3 +1,4 @@
+console.log("JS FUNCIONANDO");
 // Función para aplicar colores aleatorios
 function randomColor() {
     const colors = ['green', 'red', 'blue']; // Colores aleatorios
